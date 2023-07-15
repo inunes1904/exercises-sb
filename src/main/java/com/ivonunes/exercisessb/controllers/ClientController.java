@@ -1,6 +1,6 @@
 package com.ivonunes.exercisessb.controllers;
 
-import com.ivonunes.exercisessb.models.Client;
+import com.ivonunes.exercisessb.entities.Client;
 import org.springframework.web.bind.annotation.*;
 
 @RestController

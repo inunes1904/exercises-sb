@@ -1,4 +1,4 @@
-package com.ivonunes.exercisessb.models;
+package com.ivonunes.exercisessb.entities;
 
 public class Client {
   private int id;
